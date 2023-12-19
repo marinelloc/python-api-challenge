@@ -1,1 +1,2 @@
 # python-api-challenge
+This Python challenge demonstrates the ability to dynamically leverage api calls to various host site, collect data, and plot it in various ways (ie maps, scatter plots, and linear regressions.)
